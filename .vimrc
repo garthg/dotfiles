@@ -5,7 +5,6 @@ filetype plugin on
 filetype plugin indent on
 syntax on
 set ai
-set si
 set ts=4
 set sw=4
 set softtabstop=4
@@ -23,8 +22,8 @@ set smarttab
 set title
 set wildmenu
 set backspace=indent,eol,start
-set selectmode=mouse
-set mouse=a
+"set selectmode=mouse
+"set mouse=a
 colorscheme default
 
 let mapleader = "\<Space>"
